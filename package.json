@@ -7,12 +7,12 @@
   "contributors"  : ["Daniel Hough <daniel.hough@gmail.com>"],
   "repository": {
     "type": "git",
-    "url": "git@github.com:basicallydan/geonode.git"
+    "url": "git@github.com:feliperazeek/geonode.git"
   },
   "licenses"      : ["MIT"],
   "dependencies": {
     "geohash": "0.0.x",
-    "shred": "0.7.x"
+    "shred": "0.8.x"
   },
   "lib"           : "lib",
   "main"          : "./lib/geo",
