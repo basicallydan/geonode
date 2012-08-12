@@ -16,7 +16,7 @@
   },
   "lib"           : "lib",
   "main"          : "./lib/geo",
-  "version"       : "0.0.3",
+  "version"       : "0.0.4",
   "directories"   : { "test": "./test" },
   "engines"       : { "node": ">= 0.3.0" },
   "licenses": [{
