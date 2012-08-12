@@ -7,7 +7,7 @@
   "contributors"  : ["Daniel Hough <daniel.hough@gmail.com>"],
   "repository": {
     "type": "git",
-    "url": "git@github.com:feliperazeek/geonode.git"
+    "url": "git@github.com:basicallydan/geonode.git"
   },
   "licenses"      : ["MIT"],
   "dependencies": {
