@@ -4,7 +4,7 @@
   "homepage"      : "http://geeks.aretotally.in/projects/geonode",
   "keywords"      : ["geo", "geospatial", "geocode", "geocoding", "geohash"],
   "author"        : "Felipe Oliveira <felipera@gmail.com>",
-  "contributors"  : [],
+  "contributors"  : ["Daniel Hough <daniel.hough@gmail.com>"],
   "repository": {
     "type": "git",
     "url": "git@github.com:feliperazeek/geonode.git"
